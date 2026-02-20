@@ -1,0 +1,9 @@
+﻿{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.ino": "cpp",
+        "driver/adc.h": "c"
+    },
+    "arduino.path": "C:/Program Files (x86)/Arduino",
+    "C_Cpp.default.configurationProvider": "ms-vscode.arduino"
+}

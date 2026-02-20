@@ -1,0 +1,25 @@
+﻿{
+    "configurations": [
+        {
+            "name": "ESP32-Arduino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/massy/AppData/Local/Arduino15/packages/esp32/hardware/esp32/*/cores/esp32",
+                "C:/Users/massy/AppData/Local/Arduino15/packages/esp32/hardware/esp32/*/variants/**",
+                "C:/Users/massy/AppData/Local/Arduino15/packages/esp32/hardware/esp32/*/libraries/**",
+                "C:/Users/massy/AppData/Local/Arduino15/packages/esp32/tools/**/xtensa-esp32-elf/include/**",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino"
+            ],
+            "defines": [
+                "ARDUINO=10819",
+                "ESP32",
+                "ARDUINO_ARCH_ESP32"
+            ],
+            "compilerPath": "",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
